@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: d46ffcd028403e04484b96e58ed140ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da39995825aa142a93b3a1426a2f80
+      internalID: 465870334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ceaa7364279c4cb91cad21bcdb674
+      internalID: 817260220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd421230dad904fa3f67f3578fcf97
+      internalID: -350869044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d449382983928884c887e94f81d2ff44
+      internalID: 1918386245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a740915824cb442831ee5fca55e746
+      internalID: 1221059784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291e5438b9b0ef41bfd1279f8cfbf88
+      internalID: 847475278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514db0ce86e360643838027a85abc86c
+      internalID: -1992813002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab0fef5b6a57b4c98bbd9bf396b8c4
+      internalID: 1275195145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625e8902257649438fb42a7c147e9dc
+      internalID: 1167246152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd6e2f2e8ac304f86374b558f96524
+      internalID: -1628138343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ab31c84165a64bb27c4bd304c5b49
+      internalID: -2016376973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0da72dc27b14488778ec0e04ee7e3
+      internalID: 1110134550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2ae00252223c4ea7583b330ee6f6e
+      internalID: 20562929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe91c28d634e441b25c03264aa37cf
+      internalID: 1163089256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0122d36079cb49927cf186ff1d3fd
+      internalID: 1380999804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce4717b17792f4691500beed086fa9
+      internalID: -542940812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7bbb904d29e64fad106b034911879
+      internalID: 1849077729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ea7a49fc9c954cb3249f690ce6cbb
+      internalID: 1623351919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde1be8f98050f459974159006e987c
+      internalID: -891765571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 35
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2dfb9648cbbf458a8ed25f2750111
+      internalID: -1900323763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35746b0c7556746982ba9e571dcd94
+      internalID: 14856750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce425f519f3f040ac53e652582040e
+      internalID: 292153669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86889c57211154243a435f62c7b91df5
+      internalID: -1635168895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839c897f53922a4f8b9f1fff2a65212
+      internalID: 238745038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cada72cab97c86489c334cd57e29d48
+      internalID: -2049435399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb77182363a5a6499e15b499e8c0b7a
+      internalID: -1272405179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f87570c228df44ac9a5afff190511
+      internalID: -2143585816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0357fae972453d4490cbce99a516236
+      internalID: 800277456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe45f519d03dbc44a79d768bb51978d
+      internalID: -1795865653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f0443ea6ff37c439be1c5b31415bfc
+      internalID: -1145146719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship-Nebula - Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21af5a60a0375e488af35e5e8821948
+      internalID: 1466460748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ship-Nebula - Sprite Sheet_0: 465870334
+      Ship-Nebula - Sprite Sheet_1: 817260220
+      Ship-Nebula - Sprite Sheet_10: -2016376973
+      Ship-Nebula - Sprite Sheet_11: 1110134550
+      Ship-Nebula - Sprite Sheet_12: 20562929
+      Ship-Nebula - Sprite Sheet_13: 1163089256
+      Ship-Nebula - Sprite Sheet_14: -891765571
+      Ship-Nebula - Sprite Sheet_15: -1900323763
+      Ship-Nebula - Sprite Sheet_16: 14856750
+      Ship-Nebula - Sprite Sheet_17: 292153669
+      Ship-Nebula - Sprite Sheet_18: -1635168895
+      Ship-Nebula - Sprite Sheet_19: 238745038
+      Ship-Nebula - Sprite Sheet_2: -350869044
+      Ship-Nebula - Sprite Sheet_20: -2049435399
+      Ship-Nebula - Sprite Sheet_21: -1272405179
+      Ship-Nebula - Sprite Sheet_22: -2143585816
+      Ship-Nebula - Sprite Sheet_23: 800277456
+      Ship-Nebula - Sprite Sheet_24: -1795865653
+      Ship-Nebula - Sprite Sheet_25: -1145146719
+      Ship-Nebula - Sprite Sheet_26: 1466460748
+      Ship-Nebula - Sprite Sheet_27: -2114259032
+      Ship-Nebula - Sprite Sheet_28: -1316509741
+      Ship-Nebula - Sprite Sheet_29: 1672146488
+      Ship-Nebula - Sprite Sheet_3: 1918386245
+      Ship-Nebula - Sprite Sheet_30: 1308385820
+      Ship-Nebula - Sprite Sheet_31: 1091925155
+      Ship-Nebula - Sprite Sheet_32: 1648724423
+      Ship-Nebula - Sprite Sheet_33: 650841003
+      Ship-Nebula - Sprite Sheet_34: 913501051
+      Ship-Nebula - Sprite Sheet_35: 1063218423
+      Ship-Nebula - Sprite Sheet_36: 1500577183
+      Ship-Nebula - Sprite Sheet_37: -401391172
+      Ship-Nebula - Sprite Sheet_38: -434822385
+      Ship-Nebula - Sprite Sheet_39: -958789614
+      Ship-Nebula - Sprite Sheet_4: 1221059784
+      Ship-Nebula - Sprite Sheet_40: 39365075
+      Ship-Nebula - Sprite Sheet_41: 1380999804
+      Ship-Nebula - Sprite Sheet_42: -542940812
+      Ship-Nebula - Sprite Sheet_43: 1849077729
+      Ship-Nebula - Sprite Sheet_44: 1623351919
+      Ship-Nebula - Sprite Sheet_45: 1317776682
+      Ship-Nebula - Sprite Sheet_46: -1064904450
+      Ship-Nebula - Sprite Sheet_47: 418957295
+      Ship-Nebula - Sprite Sheet_48: -1129886958
+      Ship-Nebula - Sprite Sheet_49: -860007246
+      Ship-Nebula - Sprite Sheet_5: 847475278
+      Ship-Nebula - Sprite Sheet_50: -397086893
+      Ship-Nebula - Sprite Sheet_51: -1648230719
+      Ship-Nebula - Sprite Sheet_52: -429610896
+      Ship-Nebula - Sprite Sheet_53: 1581714904
+      Ship-Nebula - Sprite Sheet_54: -900474505
+      Ship-Nebula - Sprite Sheet_55: -266226045
+      Ship-Nebula - Sprite Sheet_6: -1992813002
+      Ship-Nebula - Sprite Sheet_7: 1275195145
+      Ship-Nebula - Sprite Sheet_8: 1167246152
+      Ship-Nebula - Sprite Sheet_9: -1628138343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
